@@ -1,4 +1,2 @@
-# Test
-testing Git
-gvghhvgv kjgkgjg hjjgjhjgkhkhgkgjjkg hjgjkgkhjgkhkhgjkjghhj
-tested
+# CS50x.ni
+Repository for CS50 classes.
