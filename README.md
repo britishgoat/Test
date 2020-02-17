@@ -1,2 +1,2 @@
-# CS50x.ni
-Repository for CS50 classes.
+# Test
+I dont know how to github
